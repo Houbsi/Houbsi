@@ -4,11 +4,7 @@ Welcome to my little coding world.
 
 ## 🔭
 
-I’m currently working on several projects:
-- Townhouse
-- Gaststube
-- Booksbook
-- ...
+I’m currently working on several sideprojects for my own and on my small business.
 
 ## 🌱
 
@@ -16,4 +12,4 @@ Working on improving myself.
 
 ## 📫
 
-You can reach me on Twitter with my [@Houbsi](www.twitter.com/houbsi)
+You can reach me on Twitter with my [@Houbsi](https://www.x.com/houbsi) or Mastodon [@Houbsi](https://flipscreen.social/@Houbsi)
