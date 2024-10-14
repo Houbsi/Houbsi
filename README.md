@@ -12,4 +12,4 @@ Working on improving myself.
 
 ## 📫
 
-You can reach me on Twitter with my [@Houbsi](https://www.x.com/houbsi) or Mastodon [@Houbsi](https://flipscreen.social/@Houbsi)
+You can reach me on Twitter with my [@Houbsi](https://www.x.com/houbsi)
